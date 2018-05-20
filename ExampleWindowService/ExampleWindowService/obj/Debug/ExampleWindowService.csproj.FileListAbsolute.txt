@@ -16,3 +16,12 @@ D:\SourceCode\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowS
 D:\SourceCode\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.csproj.CoreCompileInputs.cache
 D:\SourceCode\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.exe
 D:\SourceCode\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.pdb
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe.config
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.pdb
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.csprojResolveAssemblyReference.cache
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.ProjectInstaller.resources
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.csproj.GenerateResource.cache
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.csproj.CoreCompileInputs.cache
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.exe
+D:\SourceCode\Git\ExampleWindowService\ExampleWindowService\obj\Debug\ExampleWindowService.pdb
