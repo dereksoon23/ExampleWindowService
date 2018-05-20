@@ -1,0 +1,7 @@
+20/5/2018 1:57:01 PM: This window service started
+20/5/2018 1:57:31 PM: Timer ticked and some job has been done successfully
+20/5/2018 1:58:01 PM: Timer ticked and some job has been done successfully
+20/5/2018 1:58:31 PM: Timer ticked and some job has been done successfully
+20/5/2018 1:59:01 PM: Timer ticked and some job has been done successfully
+20/5/2018 1:59:31 PM: Timer ticked and some job has been done successfully
+20/5/2018 1:59:41 PM: Test window service stopped

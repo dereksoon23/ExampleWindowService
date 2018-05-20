@@ -1,0 +1,21 @@
+﻿Installing assembly 'D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.InstallLog
+   assemblypath = D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe
+Installing service TestWindowService...
+Service TestWindowService has been successfully installed.
+Creating EventLog source TestWindowService in log Application...
+Committing assembly 'D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.InstallLog
+   assemblypath = D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe
+Uninstalling assembly 'D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.InstallLog
+   assemblypath = D:\SourceCode\ExampleWindowService\ExampleWindowService\ExampleWindowService\bin\Debug\ExampleWindowService.exe
+Removing EventLog source TestWindowService.
+Service TestWindowService is being removed from the system...
+Service TestWindowService was successfully removed from the system.
